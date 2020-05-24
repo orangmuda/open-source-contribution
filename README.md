@@ -1,10 +1,12 @@
 # open-source-contribution 🔥
 
+`based on: https://github.com/catalinpit/OSS-Contribution`
+
 Learn how to contribute to open-source projects. 🚀
 
 You'll learn the git workflow required to contribute to open-source projects. ⚡
 
-For git basics & tips & tricks - [click me](https://github.com/imjoseangel/open-source-contribution/gittipstricks.md)! 🖱️
+For git basics & tips & tricks - [click me](https://github.com/imjoseangel/open-source-contribution/blob/devel/gittipstricks.md)! 🖱️
 
 👀 _Go to the end of the file to see who contributed!_ 👀
 
@@ -24,7 +26,7 @@ Fork this repository by clicking on the fork button.
 
 When you fork a repository, you simply create a copy the repo on your account.
 
-![fork-example](forkexample.png)
+![fork-example](pics/forkexample.png)
 
 ## STEP 2 - CLONE THE REPO 🛎️
 
@@ -32,7 +34,7 @@ The next step is to clone the repository to your machine, so you can make change
 
 To do so, go into the repo you just forked into your account, then click the button called **Clone or download**.
 
-![clone-example](clone.png)
+![clone-example](pics/clone.png)
 
 Copy the link, and run this in your terminal:
 
@@ -63,7 +65,7 @@ It should describe the purpose of your changes though. I chose that name because
 ## STEP 4 - MAKE YOUR CHANGES ✍️
 
 1. Open the file called `README.md`
-2. Find the [CONTRIBUTORS](#contributors-) section.
+2. Find the [CONTRIBUTORS](##contributors-) section.
 3. Add your name **RANDOMLY** in the list to avoid merge conflicts
 
 Once you have added your name and Twitter handle, run in your terminal:
@@ -82,11 +84,11 @@ Also, they review your code to make sure your code is optimal.
 
 1. Once you pushed your changes to Github, go to the repo and click on `Compare & pull request`.
 
-![open-pr](openprmessage.png)
+![open-pr](pics/openprmessage.png)
 
 1. Add a descriptive title and description
 
-![open-pr](openpr.png)
+![open-pr](pics/openpr.png)
 
 1. Click on `Create pull request`.
 
