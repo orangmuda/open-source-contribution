@@ -1,6 +1,6 @@
 # open-source-contribution 🔥
 
-`based on: https://github.com/catalinpit/OSS-Contribution`
+**based on:** [@cataplintit](https://github.com/catalinpit/OSS-Contribution)
 
 Learn how to contribute to open-source projects. 🚀
 
