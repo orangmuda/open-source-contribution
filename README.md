@@ -4,7 +4,7 @@ Learn how to contribute to open-source projects. 🚀
 
 You'll learn the git workflow required to contribute to open-source projects. ⚡
 
-For git basics & tips & tricks - [click me](https://github.com/imjoseangel/gittipstricks)! 🖱️
+For git basics & tips & tricks - [click me](https://github.com/imjoseangel/open-source-contribution/gittipstricks.md)! 🖱️
 
 👀 _Go to the end of the file to see who contributed!_ 👀
 
