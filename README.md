@@ -65,7 +65,7 @@ It should describe the purpose of your changes though. I chose that name because
 ## STEP 4 - MAKE YOUR CHANGES ✍️
 
 1. Open the file called `README.md`
-2. Find the [CONTRIBUTORS](##contributors-) section.
+2. Find the [CONTRIBUTORS](#CONTRIBUTORS-🧑‍🤝‍🧑) section.
 3. Add your name **RANDOMLY** in the list to avoid merge conflicts
 
 Once you have added your name and Twitter handle, run in your terminal:
