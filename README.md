@@ -82,11 +82,11 @@ Also, they review your code to make sure your code is optimal.
 
 1. Once you pushed your changes to Github, go to the repo and click on `Compare & pull request`.
 
-![open-pr]()
+![open-pr](openprmessage.png)
 
 1. Add a descriptive title and description
 
-![open-pr]()
+![open-pr](openpr.png)
 
 1. Click on `Create pull request`.
 
