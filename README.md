@@ -1,4 +1,4 @@
-# open-source-contribution 🔥
+# Open-Source Contribution 🔥
 
 **based on:** [@cataplintit](https://github.com/catalinpit/OSS-Contribution)
 
