@@ -8,6 +8,7 @@
 *.{cmd,[cC][mM][dD]} text eol=crlf
 *.{bat,[bB][aA][tT]} text eol=crlf
 *.{py} text eol=lf diff=python
+*.{md} text eol=lf
 
 
 .gitattributes export-ignore
