@@ -1,12 +1,10 @@
 # Open-Source Contribution 🔥
 
-**based on:** [@cataplintit](https://github.com/catalinpit/OSS-Contribution)
-
 Learn how to contribute to open-source projects. 🚀
 
 You'll learn the git workflow required to contribute to open-source projects. ⚡
 
-For git basics & tips & tricks - [click me](https://github.com/imjoseangel/open-source-contribution/blob/devel/gittipstricks.md)! 🖱️
+For git basics & tips & tricks - [click me](https://github.com/devlovers/open-source-contribution/blob/devel/gittipstricks.md)! 🖱️
 
 👀 _Go to the end of the file to see who contributed!_ 👀
 
@@ -42,9 +40,9 @@ Copy the link, and run this in your terminal:
 
 In my case, it would be:
 
-`git clone https://github.com/imjoseangel/open-source-contribution.git`
+`git clone https://github.com/devlovers/open-source-contribution.git`
 
-In your case, you would replace _imjoseangel_ with your username.
+In your case, you would replace _devlovers_ with your username.
 
 ## STEP 3 - CREATE A BRANCH 🌲
 
