@@ -1,6 +1,6 @@
-# Open-Source Contribution 🔥
+# Open-Source Contribution
 
-Learn how to contribute to open-source projects. 🚀
+## Learn how to contribute to open-source projects
 
 You'll learn the git workflow required to contribute to open-source projects. ⚡
 
@@ -26,7 +26,7 @@ When you fork a repository, you simply create a copy the repo on your account.
 
 ![fork-example](pics/forkexample.png)
 
-## STEP 2 - CLONE THE REPO 🛎️
+## STEP 2 - CLONE THE REPO
 
 The next step is to clone the repository to your machine, so you can make changes.
 
@@ -44,7 +44,7 @@ In my case, it would be:
 
 In your case, you would replace _devlovers_ with your username.
 
-## STEP 3 - CREATE A BRANCH 🌲
+## STEP 3 - CREATE A BRANCH
 
 First of all, open the repository in your editor.
 
@@ -60,7 +60,7 @@ The name of your branch should be short and descriptive. The branch above is jus
 
 It should describe the purpose of your changes though. I chose that name because I added my name to the README (_what you'll do as well_).
 
-## STEP 4 - MAKE YOUR CHANGES ✍️
+## STEP 4 - MAKE YOUR CHANGES
 
 1. Open the file called `README.md`
 2. Find the [CONTRIBUTORS](#CONTRIBUTORS-🧑‍🤝‍🧑) section.
@@ -74,7 +74,7 @@ Once you have added your name and Twitter handle, run in your terminal:
 
 3. `git push origin <your-branch-name>` (push your changes to Github)
 
-## STEP 5 - OPEN A PULL REQUEST (PR) 🔍
+## STEP 5 - OPEN A PULL REQUEST (PR)
 
 The purpose of a pull request is to show to other developers the changes you did.
 
@@ -96,10 +96,10 @@ Also, they review your code to make sure your code is optimal.
 
 ## EXTRA TIPS
 
-Go over my repos, and if you see any typos & programming bugs/errors, open a PR. 🥳
+Go over my repos, and if you see any typos & programming bugs/errors, open a PR.
 
-## CONTRIBUTORS 🧑‍🤝‍🧑
+## CONTRIBUTORS
 
-Add your name and Twitter handle. 🐦
+Add your name and Twitter handle.
 
-- Jose Angel 🚀💡 => Twitter: [@imjoseangel](https://twitter.com/imjoseangel) 🐦
+- imjoseangel => Twitter: [@imjoseangel](https://twitter.com/imjoseangel) 🐦
