@@ -1,4 +1,4 @@
-# GIT TIPS AND TRICKS 🔥🚀⚡
+# GIT TIPS AND TRICKS
 
 For Git basics visit this link - [Git basics](https://rogerdudler.github.io/git-guide/).
 
@@ -56,55 +56,65 @@ To add new ones, use the following command `git config --global alias.[insertYou
 These are mine:
 
 ```bash
-git config --global alias.a add .
-git config --global alias.aliases config --get-regexp alias
-git config --global alias.alias ! git config --get-regexp ^alias\. | sed -e s/^alias.// -e s/\ /\ $(printf "\043")git config --global --\>\ / | column -t -s $(printf "\043") | sort -k 1
-git config --global alias.ap add . -p
-git config --global alias.addups remote add upstream
-git config --global alias.bd branch -d
-git config --global alias.bi bisect
-git config --global alias.bl branch -l
-git config --global alias.blr branch -a
-git config --global alias.br branch -r
-git config --global alias.ca commit -a
-git config --global alias.cam commit -a -m
-git config --global alias.ci commit -m
-git config --global alias.cm commit
-git config --global alias.co checkout
-git config --global alias.colast checkout -
-git config --global alias.comments commit -m 📒Comments
-git config --global alias.db branch -D
-git config --global alias.forgetabout rm --cached
-git config --global alias.formatting commit -m 💅Formatting
-git config --global alias.fp fetch -p
-git config --global alias.laf fsck --lost-found
-git config --global alias.last log -1 HEAD
-git config --global alias.latest log -5 --pretty --oneline
-git config --global alias.mend commit --amend
-git config --global alias.nb checkout -b
-git config --global alias.pf push --force-with-lease
-git config --global alias.po push origin
-git config --global alias.pou push --set-upstream origin
-git config --global alias.pr pull --rebase
-git config --global alias.pror remote prune origin
-git config --global alias.prum pull --rebase upstream masgit config --globalter
-git config --global alias.prune remote update --prune
-git config --global alias.ra rebase --abort
-git config --global alias.rc rebase --continue
-git config --global alias.refactor commit -m 👷Refactor
-git config --global alias.remotes remote -v
-git config --global alias.renb branch -m
-git config --global alias.rh reset --hard
-git config --global alias.rhh reset --hard HEAD
-git config --global alias.ri rebase -i upstream/dev
-git config --global alias.rl reflog
-git config --global alias.s status -s
-git config --global alias.short shortlog -sn
-git config --global alias.stashes stash list
-git config --global alias.tests commit -m ✅Tests
-git config --global alias.unstash stash pop
-git config --global alias.vc clean -dfx
-git config --global alias.wow log --all --graph --decorate --oneline --simplify-by-decoration
+git config --global alias.aadd .
+git config --global alias.aliasesconfig --get-regexp alias
+git config --global alias.alias! git config --get-regexp ^alias\\. | sed -e s/^alias.// -e s/\\ /\\ $(printf \"\\043\")--\\>\\ / | column -t -s $(printf \"\\043\") | sort -k 1
+git config --global alias.apadd . -p
+git config --global alias.addupsremote add upstream
+git config --global alias.bdbranch -d
+git config --global alias.bibisect
+git config --global alias.blbranch -l
+git config --global alias.blrbranch -a
+git config --global alias.brbranch -r
+git config --global alias.cacommit -a
+git config --global alias.camcommit -a -m
+git config --global alias.cicommit -m
+git config --global alias.cmcommit
+git config --global alias.cocheckout
+git config --global alias.colastcheckout -
+git config --global alias.commentscommit -m 📒Comments
+git config --global alias.countrev-list --count
+git config --global alias.dbbranch -D
+git config --global alias.forgetAboutrm --cached
+git config --global alias.formattingcommit -m 💅Formatting
+git config --global alias.fpfetch -p
+git config --global alias.grepgrep -F
+git config --global alias.laffsck --lost-found
+git config --global alias.lastlog -1 HEAD
+git config --global alias.latestlog -5 --pretty --oneline
+git config --global alias.lsls-files --others --exclude-standard -z
+git config --global alias.mendcommit --amend
+git config --global alias.nbcheckout -b
+git config --global alias.opgc --prune=now --aggressive
+git config --global alias.pfpush --force-with-lease
+git config --global alias.popush origin
+git config --global alias.poupush --set-upstream origin
+git config --global alias.prpull --rebase
+git config --global alias.prorremote prune origin
+git config --global alias.prudpull --rebase upstream devel
+git config --global alias.prumpull --rebase upstream master
+git config --global alias.pruneremote update --prune
+git config --global alias.ptagpush origin --tags
+git config --global alias.rarebase --abort
+git config --global alias.rcrebase --continue
+git config --global alias.refactorcommit -m 👷Refactor
+git config --global alias.remotesremote -v
+git config --global alias.renbbranch -m
+git config --global alias.rhreset --hard
+git config --global alias.rhhreset --hard HEAD
+git config --global alias.rirebase -i upstream/dev
+git config --global alias.rlreflog
+git config --global alias.sstatus -s
+git config --global alias.searchrev-list --all
+git config --global alias.shshow
+git config --global alias.shortshortlog -sn
+git config --global alias.signcommit --amend --signoff
+git config --global alias.ststatus
+git config --global alias.stashesstash list
+git config --global alias.testscommit --allow empty -m ✅Tests
+git config --global alias.unstashstash pop
+git config --global alias.vcclean -dfx
+git config --global alias.wowlog --all --graph --decorate --oneline --simplify-by-decoration
 ```
 
 To easily display your git aliases run this command in your terminal - `! git config --get-regexp ^alias\. | sed -e s/^alias.// -e s/\ /\ $(printf "\043")--\>\ / | column -t -s $(printf "\043") | sort -k 1`.
